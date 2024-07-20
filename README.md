@@ -4,7 +4,7 @@ Public code repository for the source code and dataset of the "Data-driven desig
 
 ## (1) System requirements
 
-We have tested on Ubuntu 22.04.3 LTS in Python 3.10 (on PC with i7-1165G7 @ 2.80GHz × 8, and 32 GB RAM). While the example codes and development is made on PC with a mall number of cores (4-16), the main run files of the demonstrations are run within a cluster environment on 51 cores, 100 GB RAM (Ubuntu 22.04.3 LTS in Python 3.10). It is suggested to run with a high number of cores (>25) for feasible run times. 
+We have tested on Ubuntu 22.04.3 LTS in Python 3.10 (on PC with i7-1165G7 @ 2.80GHz × 8, and 32 GB RAM). While the the development is made on a PC with a small number of cores (4-16), the main run files of the demonstrations are run within a cluster environment on 51 cores, 100 GB RAM (Ubuntu 22.04.3 LTS in Python 3.10). It is suggested that the run should have a high number of cores (>25) for feasible run times. 
 
 
 ## (2) Python requirements
