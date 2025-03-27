@@ -1,6 +1,12 @@
 # data_driven_magnetic_soft_material_design
 
-Public code repository for the source code and dataset of the "Data-driven design of shape-programmable magnetic soft materials" paper.
+Public code repository for the [source code](https://doi.org/10.5281/zenodo.14827691) and [dataset](https://doi.org/10.5281/zenodo.14827843) of the "[Data-driven design of shape-programmable magnetic soft materials](https://doi.org/10.1038/s41467-025-58091-z)" paper.
+
+```
+Karacakol, A.C., Alapan, Y., Demir, S.O., Sitti M.
+Data-driven design of shape-programmable magnetic soft materials.
+Nat Commun 16, 2946 (2025). https://doi.org/10.1038/s41467-025-58091-z
+```
 
 ## (1) System requirements
 
